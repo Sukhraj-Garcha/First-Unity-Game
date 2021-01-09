@@ -1,6 +1,5 @@
 # First-Unity-Game
-This is my first attempt at creating a game in Unity
-While all of the coding styles and practices in the C# scripts are mine, the majority of the 
+This is my first attempt at creating a game in Unity. While all of the coding styles and practices in the C# scripts are mine, the majority of the 
 code was written by following a tutorial on LinkedIn Learning 
 
 ### However, I did add some additions of my own: 
